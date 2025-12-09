@@ -145,7 +145,7 @@ const DevOpsDashboard: React.FC = () => {
   const jenkinsTheory = {
     architecture: `Jenkins are uses a master-agent architecture. The master schedules jobs, manages the UI, and delegates execution to agents. Agents are autonomous systems that execute build steps. This distributed design enables horizontal scaling.`,
     pipelineModel: `Jenkins Pipeline as Code (JCasC) treats pipeline definitions as version-controlled code. Declarative pipelines provide structured syntax; Scripted pipelines offer Groovy flexibility. Pipelines are repeatable, auditable, and testable.`,
-    webhookMechanism: `Webhooks enable event-driven builds. When code is pushed to Git, a webhook triggers Jenkins to fetch code and start the build. This eliminates polling overhead and provides immediate feedback to developers.`,
+    webhookMechanism: `Webhooks enable event-driven builds. When code is pushed to Git, a webhook triggers Jenkins to fetch code and start the build. This eliminates polling overhead and provides immediate feedback to developers.hi testing is for pipeline`,
   };
 
   // CI/CD Theory
