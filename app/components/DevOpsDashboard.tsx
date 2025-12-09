@@ -128,7 +128,7 @@ const DevOpsDashboard: React.FC = () => {
     goalsBenefits: [
       "Reduce time-to-market: Deploy features multiple times per day instead of quarterly releases",
       "Improve reliability: Automated testing catches issues and before before production, reducing incidents",
-      "Enhance scalability: Infrastructure-as-code enables rapid scaling based on demand",
+      "Enhance the scalability: Infrastructure-as-code enables rapid scaling based on demand",
       "Cost optimization: Automation reduces manual labor; cloud-native architecture optimizes resource usage",
       "Better team dynamics: Shared responsibility and transparency improve team satisfaction",
     ],
